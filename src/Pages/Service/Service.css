@@ -1,0 +1,18 @@
+#btn:hover {
+  background-color: #66bb6a !important;
+  transition: 0.5s !important;
+}
+
+#card {
+  border-radius: 10px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+#card:hover {
+  transition: 1s;
+  box-shadow: 0 0 20px #b0bec5;
+  border-radius: 10px;
+  background: #eceff1;
+}
+
