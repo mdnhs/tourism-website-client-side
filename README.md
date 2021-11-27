@@ -15,10 +15,9 @@ What I Using For Creating This Site
 - Firebase auth
 
 Description:
-MDNHS Travel Agency is revolutionizing the way we book travel services. With MDNHS Travel Agency’s website and mobile app, booking your flight, hotel or
-holiday become more fun that you would think. With exciting games
-and real rewards like free trips and air ticket makes MDNHS Travel Agency more fun to use! You can also win TripCoin by playing games and
-booking service from MDNHS Travel Agency, that you can use to avail discount.
+- Created a fully responsive Tourism website.
+- A client can create an individual user account.
+- Sign in and sign up are provided by Firebase.
 
 My Deploy Platform
 
